@@ -14,3 +14,7 @@ const projects = [
     deploymentLink: 'https://jake-todoroki-tamagotchi.netlify.app/'
   }
 ]
+
+export {
+  projects
+}
